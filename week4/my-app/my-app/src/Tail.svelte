@@ -130,17 +130,17 @@ cellpadding="0" cellspacing="0" bgcolor="black">
             cellspacing="0" width="80%" align="center">
             <tr>
                 <td height="180" align="center" valign="middle">
-                    <!-- <p> -->
+                    <p class="achievments">
                         Achievements
+                    </p>
                         <hr color="#4CAF50" width="100">
-                    <!-- </p> -->
                 </td>
             </tr>
 
             <tr>
                 <td>
                     <!-- <p> -->
-                        <ul>
+                        <ul class="achievments">
                             <li>
                                 <b>Intern at Provectus.</b>
                                 <ul>
@@ -332,6 +332,10 @@ li {
 }
 
 .form-field {
+    color: white;
+}
+
+.achievments {
     color: white;
 }
 
